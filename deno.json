@@ -20,6 +20,6 @@
 		}
 	},
 	"tasks": {
-		"ooneex": "deno run -A --unstable --import-map=ooneex.json /home/franck/Documents/Projects/Ooneex/Core/CLI/ooneex.ts"
+		"ooneex": "deno run -A --unstable --import-map=ooneex.json /Volumes/Projects/Ooneex/Core/CLI/ooneex.ts"
 	}
 }

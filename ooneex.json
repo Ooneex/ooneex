@@ -1,7 +1,5 @@
 {
 	"imports": {
-		"ooneex/bin": "/home/franck/Documents/Projects/Ooneex/Core/Bin/mod.ts",
-		"ooneex/bin/maker": "/home/franck/Documents/Projects/Ooneex/Core/Bin/Maker/mod.ts",
-		"ooneex/cli/request": "/home/franck/Documents/Projects/Ooneex/Core/CLI/Request/mod.ts"
+		"config": "./config/mod.ts"
 	}
 }
